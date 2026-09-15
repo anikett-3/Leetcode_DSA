@@ -24,7 +24,7 @@
 
 
 
-// NOW THIS IS OUR SOLUTION FOR UNSORTED ARRAY -->
+// NOW THIS IS OUR SOLUTION FOR UNSORTED ARRAY ------------>
 
 import java.util.HashMap;
 
