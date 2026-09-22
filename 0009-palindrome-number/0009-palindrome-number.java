@@ -17,7 +17,7 @@ class Solution {
 
             reverseNum = reverseNum * 10 + digit;
 
-            // removing last digit-->
+           // // removing last digit-->
             num = num /10;
         }
         return reverseNum;
