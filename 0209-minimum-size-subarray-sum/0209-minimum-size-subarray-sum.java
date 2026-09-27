@@ -1,6 +1,7 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
 
+        // code here
         int n = nums.length;
 
         int left = 0 ; 
@@ -26,7 +27,7 @@ class Solution {
                 // left now 1 ho gya 
                 // again this while loop check is --> sum>= target means --> 6>=7 ==> NO
                 // now yeah ab upper wale for loop me jaega and 
-                // so on-------........
+                // so on-------...
             }
             
             
