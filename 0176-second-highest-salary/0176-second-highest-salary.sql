@@ -1,4 +1,6 @@
 -- Write your PostgreSQL query statement below
+-- we are going to solve this two approach-
+
 
 -- --  approach 1
 SELECT (select distinct salary
