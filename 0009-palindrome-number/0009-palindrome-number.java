@@ -1,5 +1,7 @@
 class Solution {
     public boolean isPalindrome(int x) {
+        // code here---->>
+        //
         if (x < 0) {
             return false;
         }
